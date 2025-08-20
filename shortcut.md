@@ -1,13 +1,3 @@
-### VSCode
-- open/close terminal
-````
-ctl + j
-````
-- open new terminal
-````
-ctl + shift + `
-````
-
 ### Set Alias
 ````
 git config --global alias.[alias] [command]
